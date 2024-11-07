@@ -66,13 +66,8 @@ This Flashcard App is a language-learning tool that helps users enhance their vo
 4. **Run the application**:
    ```bash
    mvn spring-boot:run
-   
-The application should now be running on http://localhost:8080.
 
 ## Usage
-
-### Access the Flashcard App
-Open [http://localhost:8080](http://localhost:8080) in a web browser.
 
 ### Creating a Flashcard
 - Enter a new word and its meaning in the provided form and submit.
