@@ -61,4 +61,36 @@ This Flashcard App is a language-learning tool that helps users enhance their vo
    - Replace `your_username` and `your_password` with your actual MySQL credentials.
      
 3. **Install dependencies**:
+   ```bash
+   mvn clean install
    
+4. **Run the application**:
+   ```bash
+   mvn spring-boot:run
+   
+The application should now be running on http://localhost:8080.
+
+## Usage
+
+### Access the Flashcard App
+Open [http://localhost:8080](http://localhost:8080) in a web browser.
+
+### Creating a Flashcard
+- Enter a new word and its meaning in the provided form and submit.
+
+### Viewing Flashcards
+- View the list of flashcards displayed on the home page.
+
+### Deleting a Flashcard
+- Click the delete button next to a flashcard to remove it.
+
+## Future Enhancements
+
+- **Add User Authentication**: Secure access to flashcards.
+- **Improve UI**: Make the frontend more visually appealing with modern design.
+- **Progress Tracking**: Allow users to track their progress in learning words.
+
+## License
+
+This project is licensed under the MIT License.
+
