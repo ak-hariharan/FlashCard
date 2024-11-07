@@ -7,9 +7,8 @@ This Flashcard App is a language-learning tool that helps users enhance their vo
 2. [Tech Stack](#tech-stack)
 3. [Setup](#setup)
 4. [Usage](#usage)
-5. [Database Configuration](#database-configuration)
-6. [Future Enhancements](#future-enhancements)
-7. [License](#license)
+5. [Future Enhancements](#future-enhancements)
+6. [License](#license)
 
 ## Features
 
